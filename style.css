@@ -1,0 +1,80 @@
+.contact_1 h5
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+    width: max-content;
+}
+ 
+input
+{
+    background: grey
+}
+
+#marqueeStyle {
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+
+#img1 {
+    width: max-content;
+}
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding: 5px;
+    width: 33.33%;
+    float: left;
+}
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+.travel_mainDiv hr {
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin-left: 20px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.achievement_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.achievement_head  i {
+    float: right;
+}
+.achievement_text span 
+{
+    color: #f70;
+}
+#achievementsID {
+    padding-bottom: 10px;
+}
+.alumni {
+    cursor: pointer;
+}
+.alumni hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+}
+.img_modal {
+    display: inline-block;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.modal-body {
+    text-align: center;
+}
